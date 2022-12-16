@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Kennesaw State University studying Software Engineering
+Student at Kennesaw State University studying Computer Science
 
 
 ## 🌐 Socials:
