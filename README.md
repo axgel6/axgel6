@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Angel Gutierrez</h1>
-<h3 align="center">CS Graduate from Kennesaw State University studying Computer Science</h3>
+<h3 align="center">CS Graduate from Kennesaw State University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
